@@ -42,3 +42,9 @@
 1. 클릭대상, 이동대상 먼저 제작하기
 2. 각 이동 대상의 첫번째 요소에 id 설정하기
 3. 위 2번으로 이동시 클릭해야 하는 대상에 href 속성으로 #아이디명 입력하기
+## 파비콘 복붙용
+* `<link rel="shortcut icon" href="" type="image/x-icon"> <link rel="icon" href="" type="image/x-icon">`
+## 비디오 영상
+*  autoplay muted loop
+* autoplay muted loop controls
+* ?autoplay=1&mute=1
