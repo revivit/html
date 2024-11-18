@@ -30,7 +30,7 @@
 * Class, id는 태그 관계없이 모든 태그에 적용할 수 있습니다. 
 ## 하이퍼링크태그
 * `<a href="#" target="_blank"></a>`
-* `target="_blank"` 속성은 링크를 새창으로 띄울때무나 작성한다.
+* `target="_blank"` 속성은 링크를 새창으로 띄울때만 작성한다.
 * 새창의 기준은 외부 사이트로 이동 시 결정된다.
 ## a태그 작성 순서
 1. `<a href=""></a>`
@@ -47,4 +47,11 @@
 ## 비디오 영상
 *  autoplay muted loop
 * autoplay muted loop controls
-* ?autoplay=1&mute=1
+* ?autoplay=1&mute=1'
+## 순차/비순차 목록 태그
+* <ol><li></li></ol>
+* 2개 이상의 목록(li) 구조를 묶어주는 그룹태그(ol)입니다.
+* <ul><li></li></ul>
+## 정의형 목록 태그
+* dl - 정의 형 제목과 내용을 묶는 그룹
+*   dt - 제목  dd- 내용
